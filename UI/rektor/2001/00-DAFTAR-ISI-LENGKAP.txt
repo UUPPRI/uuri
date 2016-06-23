@@ -1,8 +1,0 @@
-Repositori BEBAS.vLSM.org
-Daftar Isi Lengkap Direktori -- 240K
---------------------------------------
-
-.:
-00-DAFTAR-ISI-LENGKAP.txt
-index.html
-SKR-2002-0362.pdf

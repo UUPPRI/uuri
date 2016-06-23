@@ -1,9 +1,0 @@
-Repositori BEBAS.vLSM.org
-Daftar Isi Lengkap Direktori -- 496K
---------------------------------------
-
-.:
-00-DAFTAR-ISI-LENGKAP.txt
-index.html
-UI-MWA-2002-006.pdf
-UI-MWA-2002-008.pdf
