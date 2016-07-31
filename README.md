@@ -1,4 +1,5 @@
-# uuri
-Undang Undang Republik Indonesia 2016
+Himpunan Aturan-Aturan di NKRI.
 
-rms46@rmsbase Thu Jun  9 16:58:27 WIB 2016
+INI HIMPUNAN TIDAK RESMI. TIDAK ADA JAMINAN BAHWA AKURAT 100%.
+Gunakan himpunan ini sebagai bahan bandingan, bukan bahan resmi!
+
