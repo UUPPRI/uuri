@@ -1,4 +1,4 @@
-# Himpunan Peraturan di Negara Kesatuan Republik Indonesia
+<h1>Himpunan Peraturan NKRI<br>(Negara Kesatuan Republik Indonesia)</h1>
 
 Himpunan/kumpulan
 Undang Undang Dasar 1945 (UUD 45),
