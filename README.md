@@ -12,7 +12,9 @@ Peraturan Universitas Indonesia (UI).
 
 ## DISKLAIMER
 
-INI HIMPUNAN TIDAK RESMI. TIDAK ADA JAMINAN BAHWA AKURAT 100%.
+<b>INI HIMPUNAN TIDAK RESMI</b>.
+<b>TIDAK ADA JAMINAN BAHWA AKURAT 100%</b>.
+
 Gunakan himpunan ini sebagai bahan bandingan, bukan bahan resmi!
 Himpunan ini terutama untuk <b>KEPERLUAN SENDIRI</b> ---berbasis 
 "<i>Google Sana, Google Sini, Coba Itu, Coba Ini, Lalu Tanya-tanyi</i>".
