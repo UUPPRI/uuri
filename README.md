@@ -25,4 +25,4 @@ Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masa
 
 <img src="pictures/219.jpg" width="90">
 <a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-00--04-Apr-2018</a>
+01--22-Apr-2018</a>
