@@ -1,4 +1,4 @@
-<h1>Himpunan Peraturan NKRI<br>(Negara Kesatuan Republik Indonesia)</h1>
+# Himpunan Peraturan NKRI
 
 Himpunan/kumpulan
 Undang Undang Dasar 1945 (UUD 45),
@@ -12,17 +12,15 @@ Peraturan Universitas Indonesia (UI).
 
 ## DISKLAIMER
 
-<b>INI HIMPUNAN TIDAK RESMI</b>.
-<b>TIDAK ADA JAMINAN BAHWA AKURAT 100%</b>.
+INI HIMPUNAN TIDAK RESMI.
+TIDAK ADA JAMINAN BAHWA AKURAT 100%.
 
 Gunakan himpunan ini sebagai bahan bandingan, bukan bahan resmi!
-Himpunan ini terutama untuk <b>KEPERLUAN SENDIRI</b> ---berbasis 
-"<i>Google Sana, Google Sini, Coba Itu, Coba Ini, Lalu Tanya-tanyi</i>".
-Entah ini <b>PLAGIAT</b>, entah ini <b>RISET</b>, yang jelas tidak pernah ada klaim bahwa ini merupakan karya asli, 
+Himpunan ini terutama untuk KEPERLUAN SENDIRI ---berbasis 
+"Google Sana, Google Sini, Coba Itu, Coba Ini, Lalu Tanya-tanyi".
+Entah ini PLAGIAT, entah ini RISET, yang jelas tidak pernah ada klaim bahwa ini merupakan karya asli, 
 dan belum tentu pula merupakan solusi terbaik :).
 Mohon kiranya memberikan tanggapan, terutama jika memiliki solusi alternatif.
 Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masalah trivia ini.
 
-<img src="pictures/219.jpg" width="90">
-<a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-01--22-Apr-2018</a>
+Rahmat M. Samik-Ibrahim.
