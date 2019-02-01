@@ -1,0 +1,15 @@
+#!/bin/bash
+# REV02: Fri Feb  1 14:14:42 WIB 2019
+# START: Tue Dec 25 10:54:23 WIB 2018
+
+# Copyright (C) 2018-2019 Rahmat M. Samik-Ibrahim http://RahmatM.Samik-Ibrahim.vLSM.org/
+# This program is free script/software. This program is distributed in the hope 
+# that it will be useful, but WITHOUT ANY WARRANTY; without even the implied 
+# warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+README="00-README-ls-alR"
+ls -R > ${README}.txt
+
+exit 0
+
