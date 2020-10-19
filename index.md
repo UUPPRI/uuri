@@ -25,7 +25,6 @@ dan belum tentu pula merupakan solusi terbaik :).
 Mohon kiranya memberikan tanggapan, terutama jika memiliki solusi alternatif.
 Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masalah trivia ini.
 
-
 <img src="pictures/219.jpg" width="90">
 <a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-04--19-Oct-2020</a>
+05--19-Oct-2020</a>
