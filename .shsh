@@ -9,21 +9,21 @@
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 
-README="00-README-ls-alR"
-ls -R > ${README}.txt
-
-mkindex() {
+function mkidx {
     cd $1
-    cat > index.md << NNNN
-    ---
-    layout: "urls"
-    ---
-    NNNN
+    printf -- '---\nlayout: "urls"\n---\n'      >  index.md
+    for II in $(ls) ; do
+        [ "$II" == "index.md" ] && continue
+        [ -f $II ] && echo "* [$II]($II)"       >> index.md
+        [ -d $II ] && echo "* [$II]($II/)"      >> index.md
+        [ -d $II ] && $(mkidx $II)
+    done
 
-    cat >> index.md << NNNN
-    NNNN
     cd ..
 }
+
+README="00-README-ls-alR"
+ls -R > ${README}.txt
 
 cat > index.md << NNNN
 ---
@@ -32,7 +32,7 @@ layout: "urls"
 NNNN
 
 for II in \
-    00-README-ls-alR.txt \
+    ${README}.txt \
     45UUD \
     IDX \
     INPRES \
@@ -53,11 +53,8 @@ for II in \
 ; do
     [ -f $II ] && echo "* [$II]($II)"   >> index.md
     [ -d $II ] && echo "* [$II]($II/)"  >> index.md
-    [ -d $II ] && mkindex($II)
+    [ -d $II ] && mkidx $II
 done
-
-cat >> index.md << NNNN
-NNNN
 
 exit 0
 

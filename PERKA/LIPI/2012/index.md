@@ -1,0 +1,4 @@
+---
+layout: "urls"
+---
+* [Perka-LIPI-2012-004-E-PEDOMAN-KARYA-TULIS-ILMIAH.pdf](Perka-LIPI-2012-004-E-PEDOMAN-KARYA-TULIS-ILMIAH.pdf)
