@@ -1,4 +1,5 @@
 #!/bin/bash
+# REV03: Thu Oct 22 08:56:05 WIB 2020
 # REV02: Fri Feb  1 14:14:42 WIB 2019
 # START: Tue Dec 25 10:54:23 WIB 2018
 
@@ -10,6 +11,53 @@
 
 README="00-README-ls-alR"
 ls -R > ${README}.txt
+
+mkindex() {
+    cd $1
+    cat > index.md << NNNN
+    ---
+    layout: "urls"
+    ---
+    NNNN
+
+    cat >> index.md << NNNN
+    NNNN
+    cd ..
+}
+
+cat > index.md << NNNN
+---
+layout: "urls"
+---
+NNNN
+
+for II in \
+    00-README-ls-alR.txt \
+    45UUD \
+    IDX \
+    INPRES \
+    KEPMEN \
+    KEPPRES \
+    MK \
+    MPR \
+    PERDA \
+    PERKA \
+    PERMEN \
+    PERPRES \
+    PERPU \
+    pictures \
+    PP \
+    SKB \
+    UI \
+    UU \
+; do
+    [ -f $II ] && echo "* [$II]($II)"   >> index.md
+    [ -d $II ] && echo "* [$II]($II/)"  >> index.md
+    [ -d $II ] && mkindex($II)
+done
+
+cat >> index.md << NNNN
+NNNN
 
 exit 0
 
