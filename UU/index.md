@@ -31,4 +31,3 @@ layout: "urls"
 * [2017](2017/)
 * [2018](2018/)
 * [Katalog-Undang-Undang-Republik-Indonesia-1945-2012.pdf](Katalog-Undang-Undang-Republik-Indonesia-1945-2012.pdf)
-* [README.md](README.md)

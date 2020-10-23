@@ -8,6 +8,5 @@ layout: "urls"
 * [PANRB](PANRB/)
 * [POLHUMKAM](POLHUMKAM/)
 * [PPN](PPN/)
-* [README.md](README.md)
 * [RISTEKDIKTI](RISTEKDIKTI/)
 * [SETNEG](SETNEG/)

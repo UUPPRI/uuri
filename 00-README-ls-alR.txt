@@ -31,7 +31,6 @@ ZTMP
 
 ./45UUD:
 index.md
-README.md
 UUD-1945-AM4-LN2006-14.pdf
 UUD-1945-AM4-Satu-Naskah.pdf
 
@@ -39,7 +38,6 @@ UUD-1945-AM4-Satu-Naskah.pdf
 index.md
 JII-2017-06.pdf
 LQ45-2017-02.pdf
-README.md
 summary-JII-2017-06.ods
 summary-JII-2017-06.pdf
 summary-LQ45-2017-02.pdf
@@ -47,7 +45,6 @@ summary-LQ45-2017-02.pdf
 ./INPRES:
 2001
 index.md
-README.md
 
 ./INPRES/2001:
 index.md
@@ -57,7 +54,6 @@ INPRES-2001-006-PENGEMBANGAN-DAN-PENDAYAGUNAAN-TELEMATIKA-DI-INDONESIA.pdf
 AGAMA
 index.md
 KEMNAKER
-README.md
 
 ./KEPMEN/AGAMA:
 2017
@@ -79,7 +75,6 @@ KEPMENAKER-2020-299-SKKNI-Keahlian-Artificial-Intelligence.pdf
 2000
 2017
 index.md
-README.md
 
 ./KEPPRES/2000:
 index.md
@@ -115,7 +110,6 @@ PUU-2012-004-Pengujian-UU-24-2009.pdf
 2003
 Daftar-TAP-MPR.pdf
 index.md
-README.md
 
 ./MPR/1966:
 index.md
@@ -183,7 +177,6 @@ perdaDKI-2001-001.pdf
 index.md
 LAN
 LIPI
-README.md
 
 ./PERKA/LAN:
 2017
@@ -214,7 +207,6 @@ KUMHAM
 PANRB
 POLHUMKAM
 PPN
-README.md
 RISTEKDIKTI
 SETNEG
 
@@ -344,7 +336,6 @@ SETNEG-2016-018-GRAND-DESIGN-SISTEM-INFORMASI-SETNEG-2016-2020.pdf
 2018
 2019
 index.md
-README.md
 
 ./PERPRES/2010:
 index.md
@@ -389,7 +380,6 @@ PERPRES-2019-082-KEMENTERIAN-PENDIDIKAN-DAN-KEBUDAYAAN.pdf
 1946
 2017
 index.md
-README.md
 
 ./PERPU/1946:
 index.md
@@ -406,7 +396,6 @@ PERPU-2017-002-PERUBAHAN-ATAS-UNDANG-UNDANG-NOMOR-17-TAHUN-2013-TENTANG-ORGANISA
 219.jpg
 index.md
 old219.jpg
-README.md
 
 ./PP:
 1945
@@ -423,7 +412,6 @@ README.md
 2015
 2017
 index.md
-README.md
 
 ./PP/1945:
 index.md
@@ -524,7 +512,6 @@ ZTMP
 
 ./_site/45UUD:
 index.html
-README.md
 UUD-1945-AM4-LN2006-14.pdf
 UUD-1945-AM4-Satu-Naskah.pdf
 
@@ -544,7 +531,6 @@ bullet.png
 index.html
 JII-2017-06.pdf
 LQ45-2017-02.pdf
-README.md
 summary-JII-2017-06.ods
 summary-JII-2017-06.pdf
 summary-LQ45-2017-02.pdf
@@ -552,7 +538,6 @@ summary-LQ45-2017-02.pdf
 ./_site/INPRES:
 2001
 index.html
-README.md
 
 ./_site/INPRES/2001:
 index.html
@@ -562,7 +547,6 @@ INPRES-2001-006-PENGEMBANGAN-DAN-PENDAYAGUNAAN-TELEMATIKA-DI-INDONESIA.pdf
 AGAMA
 index.html
 KEMNAKER
-README.md
 
 ./_site/KEPMEN/AGAMA:
 2017
@@ -584,7 +568,6 @@ KEPMENAKER-2020-299-SKKNI-Keahlian-Artificial-Intelligence.pdf
 2000
 2017
 index.html
-README.md
 
 ./_site/KEPPRES/2000:
 index.html
@@ -617,7 +600,6 @@ PUU-2012-004-Pengujian-UU-24-2009.pdf
 2003
 Daftar-TAP-MPR.pdf
 index.html
-README.md
 
 ./_site/MPR/1966:
 index.html
@@ -685,7 +667,6 @@ perdaDKI-2001-001.pdf
 index.html
 LAN
 LIPI
-README.md
 
 ./_site/PERKA/LAN:
 2017
@@ -716,7 +697,6 @@ KUMHAM
 PANRB
 POLHUMKAM
 PPN
-README.md
 RISTEKDIKTI
 SETNEG
 
@@ -846,7 +826,6 @@ SETNEG-2016-018-GRAND-DESIGN-SISTEM-INFORMASI-SETNEG-2016-2020.pdf
 2018
 2019
 index.html
-README.md
 
 ./_site/PERPRES/2010:
 index.html
@@ -891,7 +870,6 @@ PERPRES-2019-082-KEMENTERIAN-PENDIDIKAN-DAN-KEBUDAYAAN.pdf
 1946
 2017
 index.html
-README.md
 
 ./_site/PERPU/1946:
 index.html
@@ -908,7 +886,6 @@ PERPU-2017-002-PERUBAHAN-ATAS-UNDANG-UNDANG-NOMOR-17-TAHUN-2013-TENTANG-ORGANISA
 219.jpg
 index.html
 old219.jpg
-README.md
 
 ./_site/PP:
 1945
@@ -925,7 +902,6 @@ README.md
 2015
 2017
 index.html
-README.md
 
 ./_site/PP/1945:
 index.html
@@ -998,7 +974,6 @@ PP-2017-011-MANAJEMEN-PEGAWAI-NEGERI-SIPIL.pdf
 ./_site/SKB:
 index.html
 MENPANRB
-README.md
 
 ./_site/SKB/MENPANRB:
 index.html
@@ -1011,7 +986,6 @@ SKB-MEPANRB-2016-02-HARI-LIBUR-NASIONAL-DAN-CUTI-BERSAMA-2017.pdf
 dgb
 index.html
 mwa
-README.md
 rektor
 sau
 Universitas-Indonesia-Informasi-Publik-ver-2015.pdf
@@ -1299,7 +1273,6 @@ UI-SKSA-2017-009-Tata-Cara-Pemilihan-MWA.pdf
 2018
 index.html
 Katalog-Undang-Undang-Republik-Indonesia-1945-2012.pdf
-README.md
 
 ./_site/UU/1945:
 index.html
@@ -1559,7 +1532,6 @@ UU-2018-001-KEPALANGMERAHAN.pdf
 UU-2018-002-PERUBAHAN-II-UU-NO-17-2014-TENTANG-MPR-DPR-DPD-DAN-DPRD.pdf
 
 ./_site/ZTMP:
-index.html
 kep-dirjen-imi-2004-131.IZ.03.02.pdf
 keppres-1995-057.pdf
 keppres-2003-103.pdf
@@ -1573,12 +1545,10 @@ permen-hukum-2006-M.01-HL.03.01.pdf
 permen-hukum-2006-M.06-IL.01.10.pdf
 permen-hukum-2007-M.01-IZ.01.10.pdf
 permen-hukum-2009-M.HH-02.GR.02.01.pdf
-README.md
 
 ./SKB:
 index.md
 MENPANRB
-README.md
 
 ./SKB/MENPANRB:
 index.md
@@ -1591,7 +1561,6 @@ SKB-MEPANRB-2016-02-HARI-LIBUR-NASIONAL-DAN-CUTI-BERSAMA-2017.pdf
 dgb
 index.md
 mwa
-README.md
 rektor
 sau
 Universitas-Indonesia-Informasi-Publik-ver-2015.pdf
@@ -1879,7 +1848,6 @@ UI-SKSA-2017-009-Tata-Cara-Pemilihan-MWA.pdf
 2018
 index.md
 Katalog-Undang-Undang-Republik-Indonesia-1945-2012.pdf
-README.md
 
 ./UU/1945:
 index.md
@@ -2152,4 +2120,3 @@ permen-hukum-2006-M.01-HL.03.01.pdf
 permen-hukum-2006-M.06-IL.01.10.pdf
 permen-hukum-2007-M.01-IZ.01.10.pdf
 permen-hukum-2009-M.HH-02.GR.02.01.pdf
-README.md

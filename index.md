@@ -14,7 +14,6 @@ layout: "urls"
 * [PERMEN](PERMEN/)
 * [PERPRES](PERPRES/)
 * [PERPU](PERPU/)
-* [pictures](pictures/)
 * [PP](PP/)
 * [SKB](SKB/)
 * [UI](UI/)

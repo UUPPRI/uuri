@@ -10,4 +10,3 @@ layout: "urls"
 * [2002](2002/)
 * [2003](2003/)
 * [Daftar-TAP-MPR.pdf](Daftar-TAP-MPR.pdf)
-* [README.md](README.md)
