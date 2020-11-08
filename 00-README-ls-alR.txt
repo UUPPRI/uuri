@@ -7,6 +7,7 @@ _config.yml
 favicon.ico
 Gemfile
 Gemfile.lock
+google5148c6c17c21af1f.html
 IDX
 index.md
 INPRES
@@ -50,6 +51,7 @@ summary-LQ45-2017-02.pdf
 index.md
 
 ./INPRES/1969:
+index.md
 INPRES-1969-006-PETUNJUK-PELAKSANAAN-URUSAN-HAJI.pdf
 
 ./INPRES/2001:
@@ -57,12 +59,16 @@ index.md
 INPRES-2001-006-PENGEMBANGAN-DAN-PENDAYAGUNAAN-TELEMATIKA-DI-INDONESIA.pdf
 
 ./INPRES/2020:
+index.md
 INPRES-2020-009-Percepatan-Pembangunan-Kesejahteraan-di-Provinsi-Papua-dan-Provinsi-Papua-Barat.pdf
 
 ./KEPMEN:
 AGAMA
 index.md
 KEMNAKER
+mkdir
+POLHUKAM
+POLKAM
 
 ./KEPMEN/AGAMA:
 2017
@@ -80,6 +86,20 @@ index.md
 index.md
 KEPMENAKER-2020-299-SKKNI-Keahlian-Artificial-Intelligence.pdf
 
+./KEPMEN/mkdir:
+
+./KEPMEN/POLHUKAM:
+2015
+
+./KEPMEN/POLHUKAM/2015:
+KEPMEN-POLHUKAM-2015-023-PENETAPAN-STANDAR-PELAYANAN-PADA-JENIS-PELAYANAN-INFORMASI-DAN-DOKUMENTASI-PELAYANAN-PENGADAAN-BARANG-DAN-JASA-DAN-PELAYANAN-FUNGSIONAL-BIDANG-POLITIK-HUKUM-DAN-KEAMANAN.pdf
+
+./KEPMEN/POLKAM:
+2002
+
+./KEPMEN/POLKAM/2002:
+KEPMEN-POLKAM-2002-026-PEMBENTUKAN-DESK-KOORDINASI-PEMBERANTASAN-TERORISME-MENTERI-KOORDINATOR-BIDANG-POLITIK-DAN-KEAMANAN-REPUBLIK-INDONESIA.pdf
+
 ./KEPPRES:
 1950
 2000
@@ -87,6 +107,7 @@ KEPMENAKER-2020-299-SKKNI-Keahlian-Artificial-Intelligence.pdf
 index.md
 
 ./KEPPRES/1950:
+index.md
 KEPPRES-1950-023-Perubahan-Susunan-Dewan-Pengawas-Lembaga-Alat-Alat-Pembayaran-Luar-Negeri.pdf
 KEPPRES-1950-048-Piagam-Penandatanganan-KRIS-Dan-Konstitusi-Republik-Indonesia-Serikat-Dalam-Lembaran-Negara-Republik-Indonesia-Serikat.pdf
 KEPPRES-1950-125-Pencabutan-Ketetapan-Gubernur-Jenderal-Hindia-Belanda-Nomor-1-Tahun-1948.pdf
@@ -293,12 +314,21 @@ index.md
 PERMEN-PANRB-2015-011-ROAD-MAP-REFORMASI-BIROKRASI-2015-2019.pdf
 
 ./PERMEN/POLHUMKAM:
+2009
 2015
+2020
 index.md
+
+./PERMEN/POLHUMKAM/2009:
+PERMEN-POLHUMKAM-2009-368-REFORMASI-BIROKRASI-KEMENTERIAN-KOORDINATORBIDANG-POLITIK-HUKUM-DAN-KEAMANAN.pdf
 
 ./PERMEN/POLHUMKAM/2015:
 index.md
 PERMEN-POLHUMKAM-2015-005-ORGANISASI-DAN-TATA-KERJA-KEMENKO-POLHUMKAM.pdf
+
+./PERMEN/POLHUMKAM/2020:
+PERMEN-POLHUMKAM-2020-001-Pengendalian-Gratifikasi-di-Lingkungan-Kementerian-Koordinator-Bidang-Politik-Hukum-dan-Keamanan.pdf
+PERMEN-POLHUMKAM-2020-002-Rencana-Strategis-Kementerian-Koordinator-Bidang-Politik-Hukum-dan-Keamanan-Tahun-2020-2024.pdf
 
 ./PERMEN/PPN:
 2017
@@ -356,9 +386,11 @@ SETNEG-2016-018-GRAND-DESIGN-SISTEM-INFORMASI-SETNEG-2016-2020.pdf
 index.md
 
 ./PERPRES/1959:
+index.md
 PERPRES-1959-001-PEMBENTUKAN-BADAN-PENGAWAS-KEGIATAN-APARATUR-NEGARA.pdf
 
 ./PERPRES/1960:
+index.md
 PERPRES-1960-001-PEMBERIAN-UANG-JASA-KEPADA-BEKAS-KETUA-WAKIL-KETUA-DAN-ANGGOTA-KONSTITUANTE.pdf
 
 ./PERPRES/2010:
@@ -401,6 +433,7 @@ PERPRES-2019-062-PENGGUNAAN-BAHASA-INDONESIA.pdf
 PERPRES-2019-082-KEMENTERIAN-PENDIDIKAN-DAN-KEBUDAYAAN.pdf
 
 ./PERPRES/2020:
+index.md
 PERPRES-2020-099-Pengadaan-Vaksin-dan-Pelaksanaan-Vaksinasi-Dalam-Rangka-Penanggulangan-Pandemi-COVID-19.pdf
 
 ./PERPU:
@@ -421,6 +454,7 @@ index.md
 PERPU-2017-002-PERUBAHAN-ATAS-UNDANG-UNDANG-NOMOR-17-TAHUN-2013-TENTANG-ORGANISASI-KEMASYARAKATAN.pdf
 
 ./PERPU/2020:
+index.md
 PERPU-2020-001-Kebijakan-Keuangan-Negara-dan-Stabilitas-Sistem-Keuangan-Untuk-Penanganan-Pandemi-Covid-19.pdf
 
 ./pictures:
@@ -524,6 +558,7 @@ PP-2017-007-PANAS-BUMI-UNTUK-PEMANFAATAN-TIDAK-LANGSUNG.pdf
 PP-2017-011-MANAJEMEN-PEGAWAI-NEGERI-SIPIL.pdf
 
 ./PP/2020:
+index.md
 PP-2020-025-Penyelenggaraan-Tabungan-Perumahan-Rakyat.pdf
 
 ./_site:
@@ -533,6 +568,7 @@ assets
 bacadaku.html
 bacadaku.md
 favicon.ico
+google5148c6c17c21af1f.html
 IDX
 index.html
 INPRES
@@ -546,6 +582,7 @@ PERMEN
 PERPRES
 PERPU
 pictures
+PNPS
 PP
 README.html
 robots.txt
@@ -581,12 +618,22 @@ summary-JII-2017-06.pdf
 summary-LQ45-2017-02.pdf
 
 ./_site/INPRES:
+1969
 2001
+2020
 index.html
+
+./_site/INPRES/1969:
+index.html
+INPRES-1969-006-PETUNJUK-PELAKSANAAN-URUSAN-HAJI.pdf
 
 ./_site/INPRES/2001:
 index.html
 INPRES-2001-006-PENGEMBANGAN-DAN-PENDAYAGUNAAN-TELEMATIKA-DI-INDONESIA.pdf
+
+./_site/INPRES/2020:
+index.html
+INPRES-2020-009-Percepatan-Pembangunan-Kesejahteraan-di-Provinsi-Papua-dan-Provinsi-Papua-Barat.pdf
 
 ./_site/KEPMEN:
 AGAMA
@@ -610,9 +657,16 @@ index.html
 KEPMENAKER-2020-299-SKKNI-Keahlian-Artificial-Intelligence.pdf
 
 ./_site/KEPPRES:
+1950
 2000
 2017
 index.html
+
+./_site/KEPPRES/1950:
+index.html
+KEPPRES-1950-023-Perubahan-Susunan-Dewan-Pengawas-Lembaga-Alat-Alat-Pembayaran-Luar-Negeri.pdf
+KEPPRES-1950-048-Piagam-Penandatanganan-KRIS-Dan-Konstitusi-Republik-Indonesia-Serikat-Dalam-Lembaran-Negara-Republik-Indonesia-Serikat.pdf
+KEPPRES-1950-125-Pencabutan-Ketetapan-Gubernur-Jenderal-Hindia-Belanda-Nomor-1-Tahun-1948.pdf
 
 ./_site/KEPPRES/2000:
 index.html
@@ -863,6 +917,8 @@ SETNEG-2016-017-STANDAR-PELAYANAN-UNIT-KERJA-SETNEG.pdf
 SETNEG-2016-018-GRAND-DESIGN-SISTEM-INFORMASI-SETNEG-2016-2020.pdf
 
 ./_site/PERPRES:
+1959
+1960
 2010
 2012
 2013
@@ -870,7 +926,16 @@ SETNEG-2016-018-GRAND-DESIGN-SISTEM-INFORMASI-SETNEG-2016-2020.pdf
 2015
 2018
 2019
+2020
 index.html
+
+./_site/PERPRES/1959:
+index.html
+PERPRES-1959-001-PEMBENTUKAN-BADAN-PENGAWAS-KEGIATAN-APARATUR-NEGARA.pdf
+
+./_site/PERPRES/1960:
+index.html
+PERPRES-1960-001-PEMBERIAN-UANG-JASA-KEPADA-BEKAS-KETUA-WAKIL-KETUA-DAN-ANGGOTA-KONSTITUANTE.pdf
 
 ./_site/PERPRES/2010:
 index.html
@@ -911,9 +976,14 @@ index.html
 PERPRES-2019-062-PENGGUNAAN-BAHASA-INDONESIA.pdf
 PERPRES-2019-082-KEMENTERIAN-PENDIDIKAN-DAN-KEBUDAYAAN.pdf
 
+./_site/PERPRES/2020:
+index.html
+PERPRES-2020-099-Pengadaan-Vaksin-dan-Pelaksanaan-Vaksinasi-Dalam-Rangka-Penanggulangan-Pandemi-COVID-19.pdf
+
 ./_site/PERPU:
 1946
 2017
+2020
 index.html
 
 ./_site/PERPU/1946:
@@ -927,10 +997,24 @@ PERPU-1946-004-PERATURAN-TENTANG-MENGADAKAN-PERUBAHAN-DALAM-UNDANG-UNDANG-TAHUN-
 index.html
 PERPU-2017-002-PERUBAHAN-ATAS-UNDANG-UNDANG-NOMOR-17-TAHUN-2013-TENTANG-ORGANISASI-KEMASYARAKATAN.pdf
 
+./_site/PERPU/2020:
+index.html
+PERPU-2020-001-Kebijakan-Keuangan-Negara-dan-Stabilitas-Sistem-Keuangan-Untuk-Penanganan-Pandemi-Covid-19.pdf
+
 ./_site/pictures:
 219.jpg
 index.html
 old219.jpg
+
+./_site/PNPS:
+1959
+1965
+
+./_site/PNPS/1959:
+PNPS-1959-005-WEWENANG-JAKSA-AGUNG-JAKSA-TENTARA-AGUNG-DAN-TENTANG-MEMPERBERAT-ANCAMAN-HUKUMAN-TERHADAP-TINDAK-PIDANA-SANDANG-PANGAN.pdf
+
+./_site/PNPS/1965:
+PNPS-1965-001-Penodaan-Agama.pdf
 
 ./_site/PP:
 1945
@@ -946,6 +1030,7 @@ old219.jpg
 2014
 2015
 2017
+2020
 index.html
 
 ./_site/PP/1945:
@@ -1015,6 +1100,10 @@ PP-2015-026-BENTUK-DAN-MEKANISME-PENDANAAN-PERGURUAN-TINGGI-NEGERI-BADAN-HUKUM.p
 index.html
 PP-2017-007-PANAS-BUMI-UNTUK-PEMANFAATAN-TIDAK-LANGSUNG.pdf
 PP-2017-011-MANAJEMEN-PEGAWAI-NEGERI-SIPIL.pdf
+
+./_site/PP/2020:
+index.html
+PP-2020-025-Penyelenggaraan-Tabungan-Perumahan-Rakyat.pdf
 
 ./_site/SKB:
 index.html
@@ -1318,6 +1407,8 @@ UI-SKSA-2017-009-Tata-Cara-Pemilihan-MWA.pdf
 2016
 2017
 2018
+2019
+2020
 index.html
 Katalog-Undang-Undang-Republik-Indonesia-1945-2012.pdf
 
@@ -1586,6 +1677,14 @@ UU-2017-018-PERLINDUNGAN-PEKERJA-MIGRAN-INDONESIA.pdf
 index.html
 UU-2018-001-KEPALANGMERAHAN.pdf
 UU-2018-002-PERUBAHAN-II-UU-NO-17-2014-TENTANG-MPR-DPR-DPD-DAN-DPRD.pdf
+
+./_site/UU/2019:
+index.html
+UU-2019-016-Perubahan-UU-1974-001-tentang-Perkawinan.pdf
+
+./_site/UU/2020:
+index.html
+UU-2020-007-PERUBAHAN-III-UU-2OO3-003-TENTANG-MAHKAMAH-KONSTITUSI.pdf
 
 ./_site/ZTMP:
 kep-dirjen-imi-2004-131.IZ.03.02.pdf
@@ -2176,9 +2275,11 @@ UU-2018-001-KEPALANGMERAHAN.pdf
 UU-2018-002-PERUBAHAN-II-UU-NO-17-2014-TENTANG-MPR-DPR-DPD-DAN-DPRD.pdf
 
 ./UU/2019:
+index.md
 UU-2019-016-Perubahan-UU-1974-001-tentang-Perkawinan.pdf
 
 ./UU/2020:
+index.md
 UU-2020-007-PERUBAHAN-III-UU-2OO3-003-TENTANG-MAHKAMAH-KONSTITUSI.pdf
 
 ./ZTMP:
