@@ -5,6 +5,7 @@ layout: "urls"
 * [DAGRI](DAGRI/)
 * [DIKBUD](DIKBUD/)
 * [KUMHAM](KUMHAM/)
+* [LU](LU/)
 * [PANRB](PANRB/)
 * [PPN](PPN/)
 * [RISTEKDIKTI](RISTEKDIKTI/)
