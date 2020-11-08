@@ -6,3 +6,4 @@ layout: "urls"
 * [mkdir](mkdir/)
 * [POLHUKAM](POLHUKAM/)
 * [POLKAM](POLKAM/)
+* [SESNEG](SESNEG/)
