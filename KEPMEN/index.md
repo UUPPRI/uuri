@@ -4,7 +4,7 @@ layout: "urls"
 * [AGAMA](AGAMA/)
 * [DAGRI](DAGRI/)
 * [KEMNAKER](KEMNAKER/)
-* [mkdir](mkdir/)
+* [LU](LU/)
 * [POLHUKAM](POLHUKAM/)
 * [POLKAM](POLKAM/)
 * [SESNEG](SESNEG/)
