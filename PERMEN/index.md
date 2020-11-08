@@ -8,6 +8,7 @@ layout: "urls"
 * [HAN](HAN/)
 * [KES](KES/)
 * [KEU](KEU/)
+* [KOMINFO](KOMINFO/)
 * [KP](KP/)
 * [KUMHAM](KUMHAM/)
 * [LU](LU/)
