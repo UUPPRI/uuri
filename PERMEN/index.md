@@ -6,6 +6,7 @@ layout: "urls"
 * [DIKBUD](DIKBUD/)
 * [ESDM](ESDM/)
 * [HAN](HAN/)
+* [KP](KP/)
 * [KUMHAM](KUMHAM/)
 * [LU](LU/)
 * [PANRB](PANRB/)
