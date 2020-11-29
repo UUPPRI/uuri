@@ -1858,7 +1858,7 @@ UI-PR-2019-0003-Jenis-dan-tarif-parkir-UI.pdf
 
 ./_site/UI/rektor/2020:
 index.html
-UI-SKR-2020-004-Biaya-Pendidikan-S1-REGULER-UI-TA-2020_2021.pdf
+UI-PR-2020-004-Biaya-Pendidikan-S1-REGULER-UI-TA-2020_2021.pdf
 
 ./_site/UI/sau:
 2007
@@ -2461,6 +2461,7 @@ UI-PR-2019-0003-Jenis-dan-tarif-parkir-UI.pdf
 ./UI/rektor/2020:
 index.md
 UI-PR-2020-004-Biaya-Pendidikan-S1-REGULER-UI-TA-2020_2021.pdf
+UI-PR-2020-013-Kurikulum-Pendidikan-Akademik-Program-Sarjana-Program-Magister-dan-Program-Doktor-UI.pdf
 
 ./UI/sau:
 2007
