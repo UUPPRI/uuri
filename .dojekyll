@@ -1,0 +1,7 @@
+#!/bin/bash
+# START Wed 03 Feb 2021 16:58:54 WIB
+
+bundle install
+bundle clean --force
+jekyll serve
+
