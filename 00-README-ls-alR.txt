@@ -62,7 +62,10 @@ index.md
 INPRES-2001-006-PENGEMBANGAN-DAN-PENDAYAGUNAAN-TELEMATIKA-DI-INDONESIA.pdf
 
 ./INPRES/2020:
+grey.txt
 index.md
+INPRES-2020-004-REALOKASI-ANGGARAN-DALAM-RANGKA-PERCEPATAN-PENANGANAN-COVID-19.pdf
+INPRES-2020-006-PENINGKATAN-DISIPLIN-DAN-PENEGAKAN-HUKUM-PROTOKOL-COVID-19.pdf
 INPRES-2020-009-Percepatan-Pembangunan-Kesejahteraan-di-Provinsi-Papua-dan-Provinsi-Papua-Barat.pdf
 
 ./KEPMEN:
@@ -1874,6 +1877,7 @@ UI-SKR-2018-2719-Penetapan-Indikator-Perilaku-Nilai-nilai-Budaya-Universitas-Ind
 ./_site/UI/rektor/2019:
 index.html
 UI-PR-2019-0003-Jenis-dan-tarif-parkir-UI.pdf
+UI-SKR-2019-2622-Struktur-Organisasi-Universitas-Indonesia.pdf
 
 ./_site/UI/rektor/2020:
 index.html
