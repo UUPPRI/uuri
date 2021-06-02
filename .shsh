@@ -26,12 +26,6 @@ function mkidx {
 README="00-README-ls-alR"
 ls -R > ${README}.txt
 
-cat > index.md << NNNN
----
-layout: "urls"
----
-NNNN
-
 for II in \
     ${README}.txt \
     45UUD \
@@ -51,8 +45,6 @@ for II in \
     UI \
     UU \
 ; do
-    [ -f $II ] && echo "* [$II]($II)"   >> index.md
-    [ -d $II ] && echo "* [$II]($II/)"  >> index.md
     [ -d $II ] && mkidx $II
 done
 
