@@ -144,9 +144,11 @@ index.md
 KEPMEN-SESNEG-2007-1521-PEMBENTUKAN-TIM-REDAKSI-WEBSITE-SEKRETARIAT-NEGARA.pdf
 
 ./KEPMENKO:
+index.md
 MARVES
 
 ./KEPMENKO/MARVES:
+index.md
 KEPMENKO-MARVES-2020-114-Organisasi-Pengelola-Informasi-dan-Dokumentasi-di-Lingkungan-Kemenko-Marves.pdf
 
 ./KEPPRES:
@@ -170,12 +172,15 @@ index.md
 KEPPRES-2017-018-CUTI-BERSAMA-TAHUN-2017.pdf
 
 ./KEPSESMENKO:
+index.md
 POLHUKAM
 
 ./KEPSESMENKO/POLHUKAM:
 2018
+index.md
 
 ./KEPSESMENKO/POLHUKAM/2018:
+index.md
 KEPSESMENKO-POLHUKAM-2018-020-Pengangkatan-Pejabat-Penyimpan-Barang-Milik-Negara-di-Kementerian-Koordinator-Bidang-Politik-Hukum-dan-Keamanan-Tahun-Anggaran-2018.pdf
 
 ./_layouts:
@@ -971,9 +976,11 @@ index.html
 KEPMEN-SESNEG-2007-1521-PEMBENTUKAN-TIM-REDAKSI-WEBSITE-SEKRETARIAT-NEGARA.pdf
 
 ./_site/KEPMENKO:
+index.html
 MARVES
 
 ./_site/KEPMENKO/MARVES:
+index.html
 KEPMENKO-MARVES-2020-114-Organisasi-Pengelola-Informasi-dan-Dokumentasi-di-Lingkungan-Kemenko-Marves.pdf
 
 ./_site/KEPPRES:
@@ -997,12 +1004,15 @@ index.html
 KEPPRES-2017-018-CUTI-BERSAMA-TAHUN-2017.pdf
 
 ./_site/KEPSESMENKO:
+index.html
 POLHUKAM
 
 ./_site/KEPSESMENKO/POLHUKAM:
 2018
+index.html
 
 ./_site/KEPSESMENKO/POLHUKAM/2018:
+index.html
 KEPSESMENKO-POLHUKAM-2018-020-Pengangkatan-Pejabat-Penyimpan-Barang-Milik-Negara-di-Kementerian-Koordinator-Bidang-Politik-Hukum-dan-Keamanan-Tahun-Anggaran-2018.pdf
 
 ./_site/MK:
