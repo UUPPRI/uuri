@@ -1,9 +1,10 @@
 #!/bin/bash
+# REV02 Mon 21 Feb 2022 18:16:48 WIB
 # REV01 Wed 16 Jun 2021 14:37:53 WIB
 # START Wed 03 Feb 2021 16:58:54 WIB
 
 bundle install
-bundle update
 bundle clean --force
-# jekyll serve
+bundle install
+bundle update
 
