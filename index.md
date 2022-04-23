@@ -10,7 +10,7 @@ layout: "urls"
 | [KEPSESMENKO](KEPSESMENKO/)   | [MK --- Mahkamah Konstitusi](MK/)        | [MPR --- Majelis Permusyawaran Rakyat](MPR/) |
 | [PERDA --- Peraturan Daerah](PERDA/)         | [PERKA --- Peraturan Kepala](PERKA/)     | [PERMEN --- Peraturan Menteri](PERMEN/)      |
 | [PERMENKO](PERMENKO/)      |
-| [PERPRES --- Peraturan Presiden](PERPRES/)   | [PERPU --- PP Pengganti UU](PERPU/) | [PNPS](PNPS/) |
+| [PERPRES --- Peraturan Presiden](PERPRES/)   | [PERPU --- PP Pengganti UU](PERPU/) | [PNPS --- Penetapan Presiden](PNPS/) |
 | [PP --- Peraturan Pemerintah](PP/)           | [SKB --- Surat Keputusan Bersama](SKB/)      | [UI --- Universitas Indoneisa](UI/)      |
 | [UU --- Undang-Undang](UU/)                  |
 

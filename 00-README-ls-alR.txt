@@ -31,6 +31,7 @@ PP
 README.md
 _site
 SKB
+tmptmp
 UI
 UU
 ZTMP
@@ -869,6 +870,7 @@ README.html
 robots.txt
 sitemap.xml
 SKB
+tmptmp
 UI
 UU
 ZTMP
@@ -1580,12 +1582,17 @@ old219.jpg
 
 ./_site/PNPS:
 1959
+1963
 1965
 index.html
 
 ./_site/PNPS/1959:
 index.html
 PNPS-1959-005-WEWENANG-JAKSA-AGUNG-JAKSA-TENTARA-AGUNG-DAN-TENTANG-MEMPERBERAT-ANCAMAN-HUKUMAN-TERHADAP-TINDAK-PIDANA-SANDANG-PANGAN.pdf
+
+./_site/PNPS/1963:
+index.html
+PNPS-1963-011-PEMBERANTASAN-KEGIATAN-SUBVERSI.pdf
 
 ./_site/PNPS/1965:
 index.html
