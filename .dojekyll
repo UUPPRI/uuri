@@ -3,6 +3,8 @@
 # REV01 Wed 16 Jun 2021 14:37:53 WIB
 # START Wed 03 Feb 2021 16:58:54 WIB
 
+# gem uninstall -aIx
+
 bundle install
 bundle clean --force
 bundle install
