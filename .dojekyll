@@ -1,10 +1,11 @@
 #!/bin/bash
-# REV02 Mon 21 Feb 2022 18:16:48 WIB
-# REV01 Wed 16 Jun 2021 14:37:53 WIB
-# START Wed 03 Feb 2021 16:58:54 WIB
+# REV03 Sun 01 Oct 2023 08:00
+# REV02 Mon 21 Feb 2022 18:00
+# REV01 Wed 16 Jun 2021 14:00
+# START Wed 03 Feb 2021 16:00
 
-# gem uninstall -aIx
-
+rm -f  Gemfile.lock
+gem    install bundler
 bundle install
 bundle clean --force
 bundle install
