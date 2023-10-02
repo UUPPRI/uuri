@@ -1,15 +1,15 @@
 #!/bin/bash
+# REV06: Mon 02 Oct 2023 13:00
 # REV05: Sun 25 Jul 2021 15:00
 # REV04: Sat 31 Oct 2020 21:00
 # REV03: Thu 22 Oct 2020 08:00
 # REV02: Fri 01 Feb 2019 14:00
 # START: Tue 25 Dec 2018 10:00
 
-# Copyright (C) 2018-2022 BinKadal, Sdn. Bhd.
+# Copyright (C) 2018-2023 Abdul Latip
 # This program is free script/software. This program is distributed in the hope 
 # that it will be useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
 
 function mkidx {
     cd $1
@@ -25,13 +25,24 @@ function mkidx {
 }
 
 README="00-README-ls-alR"
-ls -R > ${README}.txt
+cat > ${README}.md << EOF
+---
+---
+
+<br>
+\`\`\`
+EOF
+ls -R >> ${README}.md
+cat   >> ${README}.md << EOF
+\`\`\`
+EOF
 
 for II in \
-    ${README}.txt \
+    ${README}.md \
     45UUD \
     IDX \
     INPRES \
+    KEPDIRJEN \
     KEPMEN \
     KEPMENKO \
     KEPPRES \
@@ -50,7 +61,8 @@ for II in \
     UI \
     UU \
 ; do
-    [ -d $II ] && mkidx $II
+    [[ "$II" == "${README}.md" ]] || mkdir -pv $II/
+     [ -d $II ] && mkidx $II
 done
 
 exit 0

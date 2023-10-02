@@ -1,5 +1,10 @@
+---
+---
+
+<br>
+```
 .:
-00-README-ls-alR.txt
+00-README-ls-alR.md
 45UUD
 bacadaku.md
 CNAME
@@ -11,6 +16,7 @@ google5148c6c17c21af1f.html
 IDX
 index.md
 INPRES
+KEPDIRJEN
 KEPMEN
 KEPMENKO
 KEPPRES
@@ -67,6 +73,9 @@ index.md
 INPRES-2020-004-REALOKASI-ANGGARAN-DALAM-RANGKA-PERCEPATAN-PENANGANAN-COVID-19.pdf
 INPRES-2020-006-PENINGKATAN-DISIPLIN-DAN-PENEGAKAN-HUKUM-PROTOKOL-COVID-19.pdf
 INPRES-2020-009-Percepatan-Pembangunan-Kesejahteraan-di-Provinsi-Papua-dan-Provinsi-Papua-Barat.pdf
+
+./KEPDIRJEN:
+index.md
 
 ./KEPMEN:
 AGAMA
@@ -848,7 +857,7 @@ index.md
 PP-2020-025-Penyelenggaraan-Tabungan-Perumahan-Rakyat.pdf
 
 ./_site:
-00-README-ls-alR.txt
+00-README-ls-alR.html
 45UUD
 assets
 bacadaku.html
@@ -858,6 +867,7 @@ google5148c6c17c21af1f.html
 IDX
 index.html
 INPRES
+KEPDIRJEN
 KEPMEN
 KEPMENKO
 KEPPRES
@@ -926,6 +936,9 @@ index.html
 INPRES-2020-004-REALOKASI-ANGGARAN-DALAM-RANGKA-PERCEPATAN-PENANGANAN-COVID-19.pdf
 INPRES-2020-006-PENINGKATAN-DISIPLIN-DAN-PENEGAKAN-HUKUM-PROTOKOL-COVID-19.pdf
 INPRES-2020-009-Percepatan-Pembangunan-Kesejahteraan-di-Provinsi-Papua-dan-Provinsi-Papua-Barat.pdf
+
+./_site/KEPDIRJEN:
+index.html
 
 ./_site/KEPMEN:
 AGAMA
@@ -3358,3 +3371,4 @@ permen-hukum-2006-M.01-HL.03.01.pdf
 permen-hukum-2006-M.06-IL.01.10.pdf
 permen-hukum-2007-M.01-IZ.01.10.pdf
 permen-hukum-2009-M.HH-02.GR.02.01.pdf
+```
