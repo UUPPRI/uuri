@@ -1,5 +1,5 @@
 ---
 layout: "urls"
 ---
-* [AGAMA](AGAMA/)
+* [AGAMA-DIKBUD](AGAMA-DIKBUD/)
 * [MENPANRB](MENPANRB/)
