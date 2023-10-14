@@ -1717,8 +1717,13 @@ index.html
 PP-2020-025-Penyelenggaraan-Tabungan-Perumahan-Rakyat.pdf
 
 ./_site/SKB:
+AGAMA
 index.html
 MENPANRB
+
+./_site/SKB/AGAMA:
+index.html
+SKB-1987-AGAMA-158-DIKBUD-543b-TRANSLITERASI-ARAB-LATIN.pdf
 
 ./_site/SKB/MENPANRB:
 index.html
@@ -2545,8 +2550,13 @@ permen-hukum-2007-M.01-IZ.01.10.pdf
 permen-hukum-2009-M.HH-02.GR.02.01.pdf
 
 ./SKB:
+AGAMA
 index.md
 MENPANRB
+
+./SKB/AGAMA:
+index.md
+SKB-1987-AGAMA-158-DIKBUD-543b-TRANSLITERASI-ARAB-LATIN.pdf
 
 ./SKB/MENPANRB:
 index.md
