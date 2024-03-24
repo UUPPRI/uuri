@@ -434,12 +434,17 @@ PERMEN-HAN-2008-012-ORGANISASI-DAN-TATA-KERJA-RUMAH-SAKIT-dr-SUYOTO.pdf
 
 ./PERMEN/KES:
 2013
+2015
 2020
 index.md
 
 ./PERMEN/KES/2013:
 index.md
 PERMEN-KES-2013-039-Susu-Formula-Bayi-dan-Produk-Bayi-Lainnya.pdf
+
+./PERMEN/KES/2015:
+index.md
+PERMEN-KES-2015-008-Pengendalian-Resistensi-Antimikroba-di-Rumah-Sakit.pdf
 
 ./PERMEN/KES/2020:
 index.md
@@ -1298,8 +1303,13 @@ index.html
 PERMEN-HAN-2008-012-ORGANISASI-DAN-TATA-KERJA-RUMAH-SAKIT-dr-SUYOTO.pdf
 
 ./_site/PERMEN/KES:
+2013
 2020
 index.html
+
+./_site/PERMEN/KES/2013:
+index.html
+PERMEN-KES-2013-039-Susu-Formula-Bayi-dan-Produk-Bayi-Lainnya.pdf
 
 ./_site/PERMEN/KES/2020:
 index.html
@@ -1722,11 +1732,11 @@ index.html
 PP-2020-025-Penyelenggaraan-Tabungan-Perumahan-Rakyat.pdf
 
 ./_site/SKB:
-AGAMA
+AGAMA-DIKBUD
 index.html
 MENPANRB
 
-./_site/SKB/AGAMA:
+./_site/SKB/AGAMA-DIKBUD:
 index.html
 SKB-1987-AGAMA-158-DIKBUD-543b-TRANSLITERASI-ARAB-LATIN.pdf
 
